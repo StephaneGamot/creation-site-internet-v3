@@ -1,0 +1,620 @@
+{
+  "home": {
+    "seoTitle": "Création de sites internet élégants & SEO",
+    "seoDescription": "Développeur web & expert SEO. Créons ensemble votre présence digitale sur-mesure.",
+    "heroTitle": "Bienvenue sur mon site web",
+    "heroSubtitle": "Développeur web & expert SEO basé en Belgique"
+  },
+  "whyMe": {
+    "title": "Pourquoi me faire confiance ?",
+    "list": [
+      {
+        "title": "Design raffiné et responsive",
+        "description": "Des interfaces modernes, harmonieuses et pensées pour s’adapter à tous les écrans, sans compromis sur l’esthétique."
+      },
+      {
+        "title": "Optimisation SEO dès la conception",
+        "description": "Un code propre, des balises structurées et une stratégie de contenu intégrée pour plaire à Google dès le départ."
+      },
+      {
+        "title": "Expérience utilisateur fluide",
+        "description": "Des parcours clairs, une navigation intuitive et un confort de lecture optimal pour convertir vos visiteurs."
+      }
+    ]
+  },
+  "services": {
+    "title": "Les services que je vous propose",
+    "list": [
+      {
+        "title": "Création de site internet",
+        "description": "Sites vitrines, blogs ou boutiques, conçus avec soin pour refléter votre image et vos objectifs.",
+        "link": "/fr/web"
+      },
+      {
+        "title": "SEO & Référencement naturel",
+        "description": "Optimisation complète de votre site pour améliorer votre positionnement sur Google.",
+        "link": "/fr/seo-referencement-naturel"
+      },
+      {
+        "title": "Portfolio de réalisations",
+        "description": "Découvrez mes projets récents, entre esthétique soignée et performance digitale.",
+        "link": "/fr/stephane-gamot/portfolio"
+      }
+    ]
+  },
+  "citations": [
+    {
+      "id": 1,
+      "body": "“Un bon site ne se contente pas d’être beau. Il raconte une histoire, la vôtre.”",
+      "author": "— Stéphane Gamot"
+    },
+    {
+      "id": 2,
+      "body": "“Votre site internet mérite mieux qu'un simple template.”",
+      "author": "— inconnu"
+    },
+    {
+      "id": 3,
+      "body": "“Anticiper un problème avant même qu’il n’apparaisse.\n C’est là le commencement de tout bon projet.”",
+      "author": "— Stéphane Gamot"
+    }
+  ],
+  "contactButton": {
+    "label": "Me contacter",
+    "aria": "Me contacter – Lien vers la page de contact"
+  },
+  "knowMoreButton": {
+    "label": "en savoir plus",
+    "aria": "Lien permettant d'aller à la page parlant de création internet"
+  },
+  "letsTalkButton": {
+    "label": "discutons de votre projet",
+    "aria": "Discutons ensemble – lien qui permet de rentrer en contact avec Stéphane Gamot"
+  },
+  "cta": {
+    "title": "Prêt à créer votre site ?",
+    "text": "Discutons de votre projet et donnons-lui vie grâce à un site qui vous ressemble vraiment."
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "subtitle": "Nous avons travaillé avec des dizaines de personnes extraordinaires",
+    "list": [
+      {
+        "id": 1,
+        "body": "Stéphane a su écouter mes besoins et les transformer en un site qui me ressemble. C’est rassurant de confier son image à quelqu’un de si humain et compétent.",
+        "alt": "visage rassuré et souriant de Claire Dubois",
+        "author": {
+          "name": "Claire Dubois",
+          "imageUrl": "/images/testimonialPhotos/1.webp"
+        }
+      },
+      {
+        "id": 2,
+        "body": "Grâce à son accompagnement, mon site a enfin une vraie présence sur Google. Et surtout, j’ai compris ce que je faisais et pourquoi. Un grand merci.",
+        "alt": "client heureux du référencement de Julien Mallet",
+        "author": {
+          "name": "Julien Mallet",
+          "imageUrl": "/images/testimonialPhotos/2.webp"
+        }
+      },
+      {
+        "id": 3,
+        "body": "Du design à l’ergonomie, tout est fluide. Mes clients me disent souvent à quel point mon site est clair et agréable. C’est exactement ce que je voulais.",
+        "alt": "utilisatrice satisfaite de la clarté du site de Marion Ternier",
+        "author": {
+          "name": "Marion Ternier",
+          "imageUrl": "/images/testimonialPhotos/3.webp"
+        }
+      },
+      {
+        "id": 4,
+        "body": "Je ne savais pas par où commencer pour créer mon site. Stéphane a tout cadré, tout expliqué avec patience et bienveillance. Résultat : un site pro, visible et simple à gérer.",
+        "alt": "portrait rassuré d’entrepreneur de Loïc Henrot",
+        "author": {
+          "name": "Loïc Henrot",
+          "imageUrl": "/images/testimonialPhotos/4.webp"
+        }
+      },
+      {
+        "id": 5,
+        "body": "C’est bien plus qu’un site, c’est une vitrine qui raconte vraiment mon activité. Merci pour cette justesse, ce souci du détail, et cet accompagnement rassurant.",
+        "alt": "portrait professionnel d’Emilie Marchand, fondatrice",
+        "author": {
+          "name": "Emilie Marchand",
+          "imageUrl": "/images/testimonialPhotos/5.webp"
+        }
+      },
+      {
+        "id": 6,
+        "body": "La stratégie SEO mise en place a eu un effet rapide sur ma visibilité. Je me sens enfin en phase avec mon site et mes clients le ressentent aussi.",
+        "alt": "regard confiant d’Ismaël Fournier après le SEO",
+        "author": {
+          "name": "Ismaël Fournier",
+          "imageUrl": "/images/testimonialPhotos/6.webp"
+        }
+      },
+      {
+        "id": 7,
+        "body": "Stéphane m’a permis de passer d’une idée floue à un projet concret, cohérent et surtout visible. Il a ce don de traduire l’intuition en pixels avec élégance.",
+        "alt": "témoignage inspiré de Céline Lefèvre",
+        "author": {
+          "name": "Céline Lefèvre",
+          "imageUrl": "/images/testimonialPhotos/7.webp"
+        }
+      },
+      {
+        "id": 8,
+        "body": "J'avais peur que créer un site soit complexe. Avec Stéphane, tout devient limpide, fluide, rassurant. Il a su capter mon univers dès les premiers échanges.",
+        "alt": "expression soulagée de Mathilde Vernet après la création du site",
+        "author": {
+          "name": "Mathilde Vernet",
+          "imageUrl": "/images/testimonialPhotos/8.webp"
+        }
+      },
+      {
+        "id": 9,
+        "body": "Ce n’est pas juste un site qu’il a conçu, c’est un véritable cocon digital où je me reconnais à 100%. Merci pour ta bienveillance et ton écoute précieuse.",
+        "alt": "portrait bienveillant d’Anne-Laure Simon",
+        "author": {
+          "name": "Anne-Laure Simon",
+          "imageUrl": "/images/testimonialPhotos/9.webp"
+        }
+      },
+      {
+        "id": 10,
+        "body": "Chaque étape a été accompagnée, expliquée, respectée. Je n’avais jamais eu une telle qualité de service, tout en douceur et professionnalisme.",
+        "alt": "client rassuré et satisfait de Michel Degryse",
+        "author": {
+          "name": "Michel Degryse",
+          "imageUrl": "/images/testimonialPhotos/10.webp"
+        }
+      },
+      {
+        "id": 11,
+        "body": "Je n’avais pas imaginé que l’expérience puisse être aussi humaine. Stéphane a mis en valeur mon activité avec une justesse rare.",
+        "alt": "regard touché de Lætitia Giraud",
+        "author": {
+          "name": "Lætitia Giraud",
+          "imageUrl": "/images/testimonialPhotos/11.webp"
+        }
+      },
+      {
+        "id": 12,
+        "body": "En plus de son expertise, Stéphane a su me redonner confiance. Aujourd’hui, mon site me ressemble et je suis fière de le montrer.",
+        "alt": "portrait souriant de Mélanie Borel",
+        "author": {
+          "name": "Mélanie Borel",
+          "imageUrl": "/images/testimonialPhotos/12.webp"
+        }
+      },
+      {
+        "id": 13,
+        "body": "Stéphane m’a aidé à structurer mes idées floues. Il a donné une âme à mon projet, avec respect, intuition et talent.",
+        "alt": "portrait inspiré de Mélanie Borel",
+        "author": {
+          "name": "Mélanie Borel",
+          "imageUrl": "/images/testimonialPhotos/13.webp"
+        }
+      },
+      {
+        "id": 14,
+        "body": "Le site parle pour moi. Il est beau, clair, engageant. Mais surtout, il a été pensé avec cœur. Et ça se sent.",
+        "alt": "portrait chaleureux d’Héloïse Martin",
+        "author": {
+          "name": "Héloïse Martin",
+          "imageUrl": "/images/testimonialPhotos/14.webp"
+        }
+      },
+      {
+        "id": 15,
+        "body": "J’ai adoré le processus de création. Stéphane sait allier rigueur et souplesse, écoute et proposition. C’est précieux.",
+        "alt": "visage détendu et satisfait de Baptiste Ferron",
+        "author": {
+          "name": "Camille Rolin",
+          "imageUrl": "/images/testimonialPhotos/15.webp"
+        }
+      },
+      {
+        "id": 16,
+        "body": "Il n’a pas juste créé un site, il a compris mon activité, mon message, et l’a retranscrit avec finesse. Merci infiniment.",
+        "alt": "portrait expressif de Camille Rolin",
+        "author": {
+          "name": "Baptiste Ferron",
+          "imageUrl": "/images/testimonialPhotos/16.webp"
+        }
+      },
+      {
+        "id": 17,
+        "body": "Je suis bluffée par la simplicité d’utilisation de mon site. Stéphane pense à tout, même à ceux qui n’y connaissent rien.",
+        "alt": "sourire confiant de Sarah Pichon",
+        "author": {
+          "name": "Sarah Pichon",
+          "imageUrl": "/images/testimonialPhotos/17.webp"
+        }
+      },
+      {
+        "id": 18,
+        "body": "Tout a été fluide, du premier contact à la mise en ligne. C’est rare de se sentir aussi bien accompagné.",
+        "alt": "photo détendue de Romain Brasseur",
+        "author": {
+          "name": "Romain Brasseur",
+          "imageUrl": "/images/testimonialPhotos/18.webp"
+        }
+      },
+      {
+        "id": 19,
+        "body": "Il a su traduire mon activité en un site clair, beau et efficace. Je me sens alignée à 100% avec ce nouvel outil.",
+        "alt": "portrait de solopreneure d’Alix Bonnel",
+        "author": {
+          "name": "Alix Bonnel",
+          "imageUrl": "/images/testimonialPhotos/19.webp"
+        }
+      },
+      {
+        "id": 20,
+        "body": "Le SEO a été mis en place avec stratégie et transparence. Et les résultats sont là. Merci pour cette pédagogie précieuse.",
+        "alt": "visage éclairé d’un indépendant satisfait, Hugo Rivière",
+        "author": {
+          "name": "Franck Leroy",
+          "imageUrl": "/images/testimonialPhotos/20.webp"
+        }
+      },
+      {
+        "id": 21,
+        "body": "Je recommande Stéphane les yeux fermés. Pour sa sensibilité, son talent, et sa capacité à faire parler votre projet.",
+        "alt": "portrait sincère d’Anaïs Leroy",
+        "author": {
+          "name": "Hugo Rivière",
+          "imageUrl": "/images/testimonialPhotos/21.webp"
+        }
+      },
+      {
+        "id": 22,
+        "body": "Avant, mon site était invisible. En quelques mois, j’ai vu une vraie différence sur Google. Stéphane m’a expliqué chaque étape avec pédagogie.",
+        "alt": "client confiant après ses premiers résultats SEO, Julie Marin",
+        "author": {
+          "name": "Julie Marin",
+          "imageUrl": "/images/testimonialPhotos/22.webp"
+        }
+      },
+      {
+        "id": 23,
+        "body": "Stéphane ne fait pas que du SEO, il construit une stratégie sur-mesure. J’ai retrouvé de la cohérence dans mon discours et plus de visites qualifiées.",
+        "alt": "visage satisfait de Sébastien Collet après un accompagnement SEO",
+        "author": {
+          "name": "Sébastien Collet",
+          "imageUrl": "/images/testimonialPhotos/23.webp"
+        }
+      },
+      {
+        "id": 24,
+        "body": "Je ne comprenais rien au référencement. Aujourd’hui, je sais comment fonctionne mon site, pourquoi il est mieux positionné, et comment le faire durer.",
+        "alt": "portrait serein de Florence Billon, auto-entrepreneure",
+        "author": {
+          "name": "Florence Billon",
+          "imageUrl": "/images/testimonialPhotos/24.webp"
+        }
+      },
+      {
+        "id": 25,
+        "body": "Le SEO n’est plus un mot flou pour moi. Grâce à Stéphane, j’ai un site optimisé qui attire des clients vraiment intéressés par mes services.",
+        "alt": "client en pleine confiance sur son positionnement SEO, Quentin V.",
+        "author": {
+          "name": "Quentin Verdier",
+          "imageUrl": "/images/testimonialPhotos/25.webp"
+        }
+      },
+      {
+        "id": 26,
+        "body": "Il a su allier esthétique et efficacité. Mon site est aussi beau que bien référencé. Le trafic naturel a doublé en 2 mois.",
+        "alt": "fondatrice rayonnante après son audit SEO, Alice Menier",
+        "author": {
+          "name": "Alice Menier",
+          "imageUrl": "/images/testimonialPhotos/26.webp"
+        }
+      },
+      {
+        "id": 27,
+        "body": "Le référencement n’était qu’un mot pour moi avant. Aujourd’hui, il m’apporte des clients chaque semaine. Et je me sens autonome pour la suite.",
+        "alt": "portrait lumineux de Maxime Treillet, freelance",
+        "author": {
+          "name": "Maxime Treillet",
+          "imageUrl": "/images/testimonialPhotos/27.webp"
+        }
+      }
+    ]
+  },
+  "header": {
+    "logoAlt": "Imac montrant le code en react pour creer un site web",
+    "logoTitle": "Créateur de site internet & référencement naturel",
+    "menuToggle": "Ouverture du menu",
+    "menuClose": "Fermeture du menu",
+    "mainNavigation": "Menu principal",
+    "mobileMenuTitle": "Menu mobile",
+    "navigation": {
+      "web": "Sites web sur-mesure",
+      "seo": "Référencement naturel",
+      "portfolio": "Portfolio",
+      "about": "Qui suis-je ?",
+      "contact": "Contact"
+    }
+  },
+ "footer": {
+  "ariaLabel": "Pied de page du site",
+  "slogan": "Sites web élégants et performants",
+  "copyright": "Tous droits réservés"
+},
+  "webHero": {
+    "title": "Sites internet sur-mesure",
+    "text": "Je conçois des sites vitrines, blogs ou boutiques en ligne à votre image : rapides, élégants, performants, accessibles, sécurisés et conçus pour durer dans le temps."
+  },
+  "beneficeWeb": {
+    "title": "Votre site internet mérite mieux qu'un simple template",
+    "list": [
+      {
+        "title": "Design sur-mesure",
+        "desc": "Chaque site web est pensé pour refléter votre univers visuel et vos valeurs."
+      },
+      {
+        "title": "Optimisé pour le référencement",
+        "desc": "Un code propre, des contenus bien structurés et une base SEO solide."
+      },
+      {
+        "title": "Facile à gérer",
+        "desc": "Vous êtes autonome après la livraison, avec une interface claire et accessible."
+      }
+    ]
+  },"beneficeSeo": {
+  "title": "Pourquoi investir dans le SEO ?",
+  "list": [
+    {
+      "title": "Être trouvé sur Google",
+      "desc": "Je travaille sur les mots-clés, les balises, les titres et la structure pour augmenter votre visibilité."
+    },
+    {
+      "title": "Attirer des visiteurs qualifiés",
+      "desc": "Votre site attire des personnes qui recherchent vraiment vos services. Moins de bruit, plus de clients."
+    },
+    {
+      "title": "Un investissement durable",
+      "desc": "Le SEO continue à porter ses fruits dans le temps, bien après la mise en ligne."
+    }
+  ]
+},
+  "webCta": {
+    "title": "Prêt à avoir un site à votre image ?",
+    "text": "Je vous accompagne à chaque étape : de l'idée à la mise en ligne."
+  },
+  "seoHero": {
+    "title": "Référencement naturel (SEO) pour être visible sur Google",
+    "text": "Un bon site ne sert à rien s’il n’est pas vu. J’optimise chaque page pour les moteurs de recherche et pour vos visiteurs.",
+    "button": "En parler ensemble",
+    "aria": "Accéder à la page Stéphane Gamot"
+  },"seoCta": {
+  "title": "Besoin de booster votre visibilité ?",
+  "text": "Discutons ensemble d’une stratégie sur-mesure pour faire remonter votre site dans les résultats."
+},"stephaneHero": {
+  "title": "Qui suis-je ?",
+  "alt": "Stéphane Gamot, créateur de sites web",
+  "lines": [
+    "Je m'appelle Stéphane Gamot.",
+    "Ingénieur logiciel & Développeur full-stack web passionné.",
+    "Je suis titulaire d'une CEC7 ( Master en Génie Logiciel )",
+    "Je conçois des sites internet élégants, performants et conçus pour durer.",
+    "Mon approche : allier la technique à la sensibilité graphique, le référencement à l'expérience utilisateur. Chaque projet est une aventure humaine avant tout."
+  ]
+},"about": {
+  "metadata": {
+    "title": "Qui suis-je ? – Stéphane Gamot, ingénieur & développeur web",
+    "description": "Développeur full-stack & consultant SEO freelance. Passionné de design web, accessibilité, UX et optimisation technique.",
+    "ogTitle": "Stéphane Gamot – Créateur de solutions web & SEO",
+    "ogDescription": "Mon parcours, mes valeurs, mes compétences. Un accompagnement humain, technique et esthétique pour votre site.",
+    "ogImageAlt": "Portrait professionnel de Stéphane Gamot"
+  },
+  "timelineTitle": "Mon parcours",
+  "philosophyTitle": "Ce qui m’anime",
+  "philosophyText": "Offrir à chaque client une solution sur-mesure, une vitrine digitale à son image et des bases solides pour sa visibilité.",
+  "philosophySmallText": "Rigueur, clarté, écoute, transmission : ce sont les piliers de ma manière de travailler.\nMon ambition est que votre site devienne un véritable levier, pas juste un outil.",
+  "ctaTitle": "Et si on construisait votre projet ensemble ?",
+  "ctaText": "Prenons quelques minutes pour en discuter sereinement.",
+  "timeline": [
+    { "year": "2008", "text": "Premiers projets de développement web avec Joomla et WordPress." },
+    { "year": "2014", "text": "Découverte des bases solides du web avec HTML et CSS, posant les fondations d’un code structuré et clair." },
+    { "year": "2018", "text": "Approfondissement en JavaScript moderne et premiers projets orientés SEO pour améliorer la visibilité des sites." },
+    { "year": "2019", "text": "Adoption de React et intégration des principes d’accessibilité pour des interfaces plus inclusives." },
+    { "year": "2020", "text": "Exploration de Next.js pour allier performance, SEO et architecture robuste côté serveur." },
+    { "year": "2021", "text": "Utilisation de Bootstrap puis Tailwind CSS pour créer des interfaces élégantes, cohérentes et réactives." },
+    { "year": "2022", "text": "Intégration de Git pour le versioning et mise en place de tests front-end avec Jasmine." },
+    { "year": "2023", "text": "Montée en compétences back-end avec Java, Spring Boot, MySQL et déploiement via des pipelines CI/CD." },
+    { "year": "2024", "text": "Accompagnement stratégique en SEO, accessibilité avancée et conception de sites web sur-mesure." }
+  ]
+},"skills": {
+  "title": "Compétences techniques"
+}, 
+  "portfolio": {
+    "title": "Portfolio de réalisations",
+    "text": "Découvrez quelques-uns des projets que j’ai conçus sur-mesure : entre design raffiné, performance et visibilité.",
+    "ctaTitle": "Un projet à concrétiser ?",
+    "ctaText": "Créons ensemble une solution web qui vous ressemble.",
+    "metadata": {
+      "title": "Portfolio – Projets web & SEO réalisés par Stéphane Gamot",
+      "description": "Découvrez mes créations de sites internet, projets SEO et web apps sur-mesure. Design raffiné, ergonomie fluide et performance assurée.",
+      "ogTitle": "Portfolio – Réalisations web, SEO & applications",
+      "ogDescription": "Projets clients : sites vitrines, e-commerce, SEO, UI/UX, et développement personnalisé avec Next.js et Tailwind.",
+      "ogImageAlt": "Miniatures de projets web et applications mobiles"
+    }
+  },
+  "portfolioProjects": {
+    "wellness-shop": {
+      "title": "E-commerce bien-être",
+      "category": "E-commerce",
+      "description": "Une boutique en ligne douce, responsive et optimisée, pour vendre produits et rituels bien-être.",
+      "alt": "Aperçu d'une boutique bien-être en ligne, au design fluide et naturel."
+    },
+    "sushi-restaurant": {
+      "title": "Restaurant japonais - Sushi Bar",
+      "category": "Restauration",
+      "description": "Un site raffiné aux couleurs japonaises pour présenter les menus, la réservation en ligne et l’univers du sushi.",
+      "alt": "Présentation élégante d’un restaurant japonais avec ambiance zen."
+    },
+    "car-dealer": {
+      "title": "Concessionnaire automobile",
+      "category": "Automobile",
+      "description": "Un site structuré pour la présentation de véhicules neufs/occasions, financements et prise de RDV atelier.",
+      "alt": "Site professionnel dédié à un concessionnaire de voitures."
+    },
+    "recipe-blog": {
+      "title": "Blog de recettes familiales",
+      "category": "Blog",
+      "description": "Un site chaleureux et simple d’utilisation pour partager des recettes accessibles et SEO friendly.",
+      "alt": "Aperçu d’un blog culinaire avec ambiance familiale et gourmande."
+    },
+    "bistronomic-restaurant": {
+      "title": "Site de restaurant bistronomique",
+      "category": "Restauration",
+      "description": "Un design immersif et gourmand, avec menu interactif, réservation et ambiance visuelle raffinée.",
+      "alt": "Site vitrine d’un restaurant bistronomique moderne."
+    },
+    "massage-courcelles": {
+      "title": "Massage à Courcelles",
+      "category": "Bien-être",
+      "description": "Création d’un site local et mobile-friendly pour une praticienne en massage Lahochi à Courcelles.",
+      "alt": "Page d’accueil d’un cabinet de massage à Courcelles, ambiance douce."
+    },
+    "finance-site": {
+      "title": "Site de finance personnelle",
+      "category": "Finance",
+      "description": "Un site bancaire sobre et structuré pour accompagner les utilisateurs dans la gestion de leurs finances.",
+      "alt": "Interface d’un site financier clair et intuitif."
+    },
+    "massage-site": {
+      "title": "Site de massage bien-être",
+      "category": "Bien-être",
+      "description": "Un site apaisant, élégant et fluide pour promouvoir des soins de massage personnalisés.",
+      "alt": "Design zen et épuré pour un site de massages bien-être."
+    },
+    "karate-federation": {
+      "title": "Site d'une fédération de karaté",
+      "category": "Sport",
+      "description": "Un site dynamique de karaté shotokan pour présenter les cours, événements et inscriptions en ligne.",
+      "alt": "Page dédiée à une fédération de karaté avec planning et infos."
+    },
+    "real-estate": {
+      "title": "Agence immobilière locale",
+      "category": "Immobilier",
+      "description": "Site vitrine élégant avec galerie dynamique, géolocalisation et contact rapide pour l’agence immobilière.",
+      "alt": "Site élégant pour une agence immobilière de proximité."
+    },
+    "creative-agency": {
+      "title": "Agence multimédia créative",
+      "category": "Création",
+      "description": "Un site moderne et coloré pour présenter de nombreux services vidéos, photos et créations de contenu.",
+      "alt": "Aperçu d’un site dynamique pour une agence créative."
+    },
+    "gaming-platform": {
+      "title": "Plateforme pour gamers",
+      "category": "Communauté",
+      "description": "Un univers dark & vibrant, pour une communauté de joueurs avec forum, profils et actus.",
+      "alt": "Interface sombre et immersive pour communauté gaming."
+    },
+    "sofa-ecommerce": {
+      "title": "Vente de canapés en ligne",
+      "category": "E-commerce",
+      "description": "E-commerce design et minimaliste avec navigation fluide, filtres et fiches produits détaillées.",
+      "alt": "Boutique en ligne pour la vente de canapés design."
+    },
+    "photographer-portfolio": {
+      "title": "Site portfolio de photographe",
+      "category": "Portfolio",
+      "description": "Un portfolio épuré en pleine page, avec galeries triées et chargement rapide pour la performance.",
+      "alt": "Présentation visuelle du travail d’un photographe professionnel."
+    },
+    "fitness-app": {
+      "title": "Application sportive",
+      "category": "Application",
+      "description": "Une interface d'application fluide et interactive pour suivre les performances et programmes d'entraînement.",
+      "alt": "Interface mobile pour suivi sportif personnalisé."
+    },
+    "hr-app": {
+      "title": "Application gestion de personnel",
+      "category": "Application",
+      "description": "Une webapp intuitive avec gestion des absences, planning du personnel & évenements, contrats et dashboard RH.",
+      "alt": "Application RH pour la gestion de personnel simplifiée."
+    },
+    "ai-startup": {
+      "title": "Start-up IA & data science",
+      "category": "Tech",
+      "description": "Un site tech, moderne et clair pour une start-up spécialisée en intelligence artificielle appliquée aux données.",
+      "alt": "Site vitrine pour une start-up spécialisée en IA."
+    },
+    "mountain-camping": {
+      "title": "Camping en montagne",
+      "category": "Tourisme",
+      "description": "Site nature et immersif pour un camping semi sauvage niché en altitude, avec réservation et infos pratiques.",
+      "alt": "Site de réservation pour un camping de montagne."
+    },
+    "astro-site": {
+      "title": "Astrologie intuitive",
+      "category": "Spiritualité",
+      "description": "Un site mystique, élégant et responsive dédié aux thèmes astraux et consultations astrologiques.",
+      "alt": "Interface ésotérique pour consultations astrologiques."
+    },
+    "martial-arts": {
+      "title": "Art martial - 5 principes en Kanjis",
+      "category": "Culture",
+      "description": "Un site épuré pour transmettre la sagesse des arts martiaux japonais à travers leurs 5 grands principes illustrés en kanjis.",
+      "alt": "Illustration graphique autour de l’art martial et des kanjis."
+    },
+    "tarot-site": {
+      "title": "Tirage de tarot en ligne",
+      "category": "Spiritualité",
+      "description": "Un univers ésotérique fluide et interactif pour proposer des tirages personnalisés de cartes de tarot.",
+      "alt": "Plateforme intuitive pour tirages de tarot en ligne."
+    }
+  }, "aboutStephane": {
+  "section": {
+    "timeline": "Mon parcours"
+  },
+  "timeline": [
+    { "year": "2008", "text": "Premiers projets de développement web avec Joomla et WordPress." },
+    { "year": "2014", "text": "Découverte des bases solides du web avec HTML et CSS, posant les fondations d’un code structuré et clair." },
+    { "year": "2018", "text": "Approfondissement en JavaScript moderne et premiers projets orientés SEO pour améliorer la visibilité des sites." },
+    { "year": "2019", "text": "Adoption de React et intégration des principes d’accessibilité pour des interfaces plus inclusives." },
+    { "year": "2020", "text": "Exploration de Next.js pour allier performance, SEO et architecture robuste côté serveur." },
+    { "year": "2021", "text": "Utilisation de Bootstrap puis Tailwind CSS pour créer des interfaces élégantes, cohérentes et réactives." },
+    { "year": "2022", "text": "Intégration de Git pour le versioning et mise en place de tests front-end avec Jasmine." },
+    { "year": "2023", "text": "Montée en compétences back-end avec Java, Spring Boot, MySQL et déploiement via des pipelines CI/CD." },
+    { "year": "2024", "text": "Accompagnement stratégique en SEO, accessibilité avancée et conception de sites web sur-mesure." }
+  ],
+  "philosophy": {
+    "title": "Ce qui m’anime",
+    "text1": "Offrir à chaque client une solution sur-mesure, une vitrine digitale à son image et des bases solides pour sa visibilité.",
+    "text2": "Rigueur, clarté, écoute, transmission : ce sont les piliers de ma manière de travailler. Mon ambition est que votre site devienne un véritable levier, pas juste un outil."
+  },
+  "cta": {
+    "title": "Et si on construisait votre projet ensemble ?",
+    "text": "Prenons quelques minutes pour en discuter sereinement."
+  }
+},"contact": {
+  "title": "Me contacter",
+  "description": "Que ce soit pour un renseignement, un besoin spécifique ou simplement l’envie de vous lancer dans un projet web, je suis à votre écoute avec attention. Écrivez-moi, et concrétisons ensemble une présence en ligne qui vous ressemble.",
+  "fields": {
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "message": "Message"
+  },
+  "submit": "Envoyer le message",
+  "address": "Octaaf de kerchove d'exaerdestraat 193\n1501 Buizingen (Halle)",
+  "successSubject": "Nouveau message via le site web"
+}
+
+
+}
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- /fr -->
+  <url>
+    <loc>https://www.creation-site-internet.dev/fr</loc>
+    <lastmod>2025-05-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.creation-site-internet.dev/fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.creation-site-internet.dev/en" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.creation-site-internet.dev/nl" />
+  </url>
+
+  <!-- /fr/contact -->
+  <url>
+    <loc>https://www.creation-site-internet.dev/fr/contact</loc>
+    <lastmod>2025-05-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.creation-site-internet.dev/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.creation-site-internet.dev/en/contact" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.creation-site-internet.dev/nl/contact" />
+  </url>
+
+  <!-- /fr/web -->
+  <url>
+    <loc>https://www.creation-site-internet.dev/fr/web</loc>
+    <lastmod>2025-05-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.creation-site-internet.dev/fr/web" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.creation-site-internet.dev/en/web" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.creation-site-internet.dev/nl/web" />
+  </url>
+
+  <!-- /fr/stephane-gamot -->
+  <url>
+    <loc>https://www.creation-site-internet.dev/fr/stephane-gamot</loc>
+    <lastmod>2025-05-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.creation-site-internet.dev/fr/stephane-gamot" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.creation-site-internet.dev/en/stephane-gamot" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.creation-site-internet.dev/nl/stephane-gamot" />
+  </url>
+
+  <!-- /fr/stephane-gamot/portfolio -->
+  <url>
+    <loc>https://www.creation-site-internet.dev/fr/stephane-gamot/portfolio</loc>
+    <lastmod>2025-05-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.creation-site-internet.dev/fr/stephane-gamot/portfolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.creation-site-internet.dev/en/stephane-gamot/portfolio" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.creation-site-internet.dev/nl/stephane-gamot/portfolio" />
+  </url>
+
+</urlset>

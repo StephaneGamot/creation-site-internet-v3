@@ -1,0 +1,618 @@
+{
+  "home": {
+    "seoTitle": "Elegante en SEO-geoptimaliseerde websitecreatie",
+    "seoDescription": "Webontwikkelaar & SEO-expert. Laten we samen uw digitale aanwezigheid op maat creëren.",
+    "heroTitle": "Welkom op mijn website",
+    "heroSubtitle": "Webontwikkelaar & SEO-expert gevestigd in België"
+  },
+  "whyMe": {
+    "title": "Waarom op mij vertrouwen?",
+    "list": [
+      {
+        "title": "Verfijnd en responsief design",
+        "description": "Moderne, harmonieuze interfaces die zich zonder compromis aanpassen aan elk schermformaat."
+      },
+      {
+        "title": "SEO-optimalisatie vanaf het begin",
+        "description": "Schone code, gestructureerde tags en een geïntegreerde contentstrategie om vanaf het begin goed te scoren in Google."
+      },
+      {
+        "title": "Vlotte gebruikerservaring",
+        "description": "Duidelijke navigatie, intuïtieve structuur en optimaal leescomfort om bezoekers te overtuigen."
+      }
+    ]
+  },
+  "services": {
+    "title": "Diensten die ik aanbied",
+    "list": [
+      {
+        "title": "Website creatie",
+        "description": "Showcasewebsites, blogs of webshops, zorgvuldig ontworpen om uw imago en doelen te weerspiegelen.",
+        "link": "/nl/web"
+      },
+      {
+        "title": "SEO & natuurlijke vindbaarheid",
+        "description": "Volledige optimalisatie van uw site om beter te scoren in Google.",
+        "link": "/nl/seo-referencement-naturel"
+      },
+      {
+        "title": "Portfolio van projecten",
+        "description": "Bekijk mijn recente projecten: een combinatie van stijlvol ontwerp en digitale prestaties.",
+        "link": "/nl/stephane-gamot/portfolio"
+      }
+    ]
+  },
+  "citations": [
+    {
+      "id": 1,
+      "body": "“Een goede website is niet alleen mooi. Hij vertelt een verhaal — dat van u.”",
+      "author": "— Stéphane Gamot"
+    },
+    {
+      "id": 2,
+      "body": "“Uw website verdient beter dan een eenvoudig sjabloon.”",
+      "author": "— onbekend"
+    },
+    {
+      "id": 3,
+      "body": "“Een probleem voorzien voordat het zich voordoet:\nDat is het begin van elk goed project.”",
+      "author": "— Stéphane Gamot"
+    }
+  ],
+  "contactButton": {
+    "label": "Contacteer mij",
+    "aria": "Contacteer mij – Link naar de contactpagina"
+  },
+  "knowMoreButton": {
+    "label": "meer weten",
+    "aria": "Link naar de pagina over websitecreatie"
+  },
+  "letsTalkButton": {
+    "label": "laten we over uw project praten",
+    "aria": "Laten we contact opnemen – link om in contact te komen met Stéphane Gamot"
+  },
+  "cta": {
+    "title": "Klaar om uw website te maken?",
+    "text": "Laten we uw project bespreken en het tot leven brengen met een website die echt bij u past."
+  },
+  "testimonials": {
+  "title": "Getuigenissen",
+  "subtitle": "We hebben samengewerkt met tientallen geweldige mensen",
+  "list": [
+    {
+      "id": 1,
+      "body": "Stéphane luisterde naar mijn behoeften en vertaalde ze in een website die echt bij mij past. Het is geruststellend om je imago toe te vertrouwen aan iemand zo menselijk en bekwaam.",
+      "alt": "gerustgesteld en glimlachend gezicht van Claire Dubois",
+      "author": {
+        "name": "Claire Dubois",
+        "imageUrl": "/images/testimonialPhotos/1.webp"
+      }
+    },
+    {
+      "id": 2,
+      "body": "Dankzij zijn begeleiding heeft mijn site eindelijk zichtbaarheid op Google. En vooral, ik begrijp nu wat ik doe en waarom. Hartelijk dank.",
+      "alt": "tevreden SEO-klant Julien Mallet",
+      "author": {
+        "name": "Julien Mallet",
+        "imageUrl": "/images/testimonialPhotos/2.webp"
+      }
+    },
+    {
+      "id": 3,
+      "body": "Van design tot ergonomie, alles loopt soepel. Mijn klanten vertellen me vaak hoe duidelijk en aangenaam mijn site is. Precies wat ik wilde.",
+      "alt": "tevreden gebruiker over de duidelijkheid van de site, Marion Ternier",
+      "author": {
+        "name": "Marion Ternier",
+        "imageUrl": "/images/testimonialPhotos/3.webp"
+      }
+    },
+    {
+      "id": 4,
+      "body": "Ik wist niet waar ik moest beginnen. Stéphane heeft alles gestructureerd en uitgelegd met geduld en vriendelijkheid. Resultaat: een professionele, zichtbare en makkelijk te beheren site.",
+      "alt": "geruststellend ondernemersportret van Loïc Henrot",
+      "author": {
+        "name": "Loïc Henrot",
+        "imageUrl": "/images/testimonialPhotos/4.webp"
+      }
+    },
+    {
+      "id": 5,
+      "body": "Het is meer dan een website: het is een vitrine die mijn activiteit echt weerspiegelt. Bedankt voor de nauwkeurigheid, oog voor detail en geruststellende ondersteuning.",
+      "alt": "professioneel portret van Emilie Marchand, oprichtster",
+      "author": {
+        "name": "Emilie Marchand",
+        "imageUrl": "/images/testimonialPhotos/5.webp"
+      }
+    },
+    {
+      "id": 6,
+      "body": "De SEO-strategie heeft snel effect gehad op mijn zichtbaarheid. Ik voel me eindelijk in lijn met mijn site en dat voelen mijn klanten ook.",
+      "alt": "zelfverzekerde blik van Ismaël Fournier na SEO",
+      "author": {
+        "name": "Ismaël Fournier",
+        "imageUrl": "/images/testimonialPhotos/6.webp"
+      }
+    },
+    {
+      "id": 7,
+      "body": "Stéphane hielp me van een vaag idee naar een concreet, samenhangend en zichtbaar project. Hij weet intuïtie perfect om te zetten in elegante pixels.",
+      "alt": "inspirerende getuigenis van Céline Lefèvre",
+      "author": {
+        "name": "Céline Lefèvre",
+        "imageUrl": "/images/testimonialPhotos/7.webp"
+      }
+    },
+    {
+      "id": 8,
+      "body": "Ik was bang dat het maken van een website ingewikkeld zou zijn. Met Stéphane werd alles helder, vlot en geruststellend. Hij begreep mijn wereld meteen.",
+      "alt": "opluchting bij Mathilde Vernet na de creatie van haar site",
+      "author": {
+        "name": "Mathilde Vernet",
+        "imageUrl": "/images/testimonialPhotos/8.webp"
+      }
+    },
+    {
+      "id": 9,
+      "body": "Het is niet zomaar een website die hij heeft gebouwd, maar een echte digitale cocon waarin ik mezelf volledig herken. Bedankt voor je vriendelijkheid en luisterend oor.",
+      "alt": "zachtaardig portret van Anne-Laure Simon",
+      "author": {
+        "name": "Anne-Laure Simon",
+        "imageUrl": "/images/testimonialPhotos/9.webp"
+      }
+    },
+    {
+      "id": 10,
+      "body": "Elke stap werd begeleid, uitgelegd en gerespecteerd. Nog nooit heb ik zo’n kwaliteitsvolle service gehad: rustig en professioneel van begin tot eind.",
+      "alt": "tevreden en gerustgestelde klant, Michel Degryse",
+      "author": {
+        "name": "Michel Degryse",
+        "imageUrl": "/images/testimonialPhotos/10.webp"
+      }
+    },
+    {
+      "id": 11,
+      "body": "Ik had nooit gedacht dat het zo’n menselijke ervaring zou zijn. Stéphane heeft mijn activiteit met uitzonderlijke precisie in de kijker gezet.",
+      "alt": "ontroerde blik van Lætitia Giraud",
+      "author": {
+        "name": "Lætitia Giraud",
+        "imageUrl": "/images/testimonialPhotos/11.webp"
+      }
+    },
+    {
+      "id": 12,
+      "body": "Naast zijn expertise gaf Stéphane me weer vertrouwen. Vandaag lijkt mijn site op mij en ik ben er trots op.",
+      "alt": "lachend portret van Mélanie Borel",
+      "author": {
+        "name": "Mélanie Borel",
+        "imageUrl": "/images/testimonialPhotos/12.webp"
+      }
+    },
+    {
+      "id": 13,
+      "body": "Stéphane hielp me mijn vage ideeën te structureren. Hij gaf mijn project een ziel, met respect, intuïtie en talent.",
+      "alt": "geïnspireerd portret van Mélanie Borel",
+      "author": {
+        "name": "Mélanie Borel",
+        "imageUrl": "/images/testimonialPhotos/13.webp"
+      }
+    },
+    {
+      "id": 14,
+      "body": "De site spreekt voor zich. Hij is mooi, duidelijk, uitnodigend. Maar vooral: hij is met hart en ziel gemaakt. En dat voel je.",
+      "alt": "hartelijk portret van Héloïse Martin",
+      "author": {
+        "name": "Héloïse Martin",
+        "imageUrl": "/images/testimonialPhotos/14.webp"
+      }
+    },
+    {
+      "id": 15,
+      "body": "Ik heb echt genoten van het creatieproces. Stéphane weet structuur en flexibiliteit, luisteren en voorstellen te combineren. Dat is waardevol.",
+      "alt": "ontspannen en tevreden blik van Baptiste Ferron",
+      "author": {
+        "name": "Camille Rolin",
+        "imageUrl": "/images/testimonialPhotos/15.webp"
+      }
+    },
+    {
+      "id": 16,
+      "body": "Hij heeft niet alleen een site gemaakt, hij heeft mijn activiteit, mijn boodschap begrepen en dit met finesse vertaald. Oneindig dankbaar.",
+      "alt": "expressief portret van Camille Rolin",
+      "author": {
+        "name": "Baptiste Ferron",
+        "imageUrl": "/images/testimonialPhotos/16.webp"
+      }
+    },
+    {
+      "id": 17,
+      "body": "Ik ben verbaasd over hoe eenvoudig mijn site te gebruiken is. Stéphane denkt echt aan alles, zelfs voor wie weinig technische kennis heeft.",
+      "alt": "zelfverzekerde glimlach van Sarah Pichon",
+      "author": {
+        "name": "Sarah Pichon",
+        "imageUrl": "/images/testimonialPhotos/17.webp"
+      }
+    },
+    {
+      "id": 18,
+      "body": "Alles verliep soepel, van het eerste contact tot de lancering. Het is zeldzaam om je zo goed begeleid te voelen.",
+      "alt": "ontspannen foto van Romain Brasseur",
+      "author": {
+        "name": "Romain Brasseur",
+        "imageUrl": "/images/testimonialPhotos/18.webp"
+      }
+    },
+    {
+      "id": 19,
+      "body": "Hij wist mijn activiteit te vertalen naar een site die duidelijk, mooi en doeltreffend is. Ik voel me volledig in lijn met dit nieuwe hulpmiddel.",
+      "alt": "portret van solopreneur Alix Bonnel",
+      "author": {
+        "name": "Alix Bonnel",
+        "imageUrl": "/images/testimonialPhotos/19.webp"
+      }
+    },
+    {
+      "id": 20,
+      "body": "De SEO-strategie werd helder en transparant opgezet. En de resultaten zijn er. Bedankt voor je waardevolle uitleg.",
+      "alt": "heldere blik van tevreden zelfstandige, Hugo Rivière",
+      "author": {
+        "name": "Franck Leroy",
+        "imageUrl": "/images/testimonialPhotos/20.webp"
+      }
+    },
+    {
+      "id": 21,
+      "body": "Ik beveel Stéphane van harte aan. Voor zijn gevoeligheid, zijn talent, en zijn vermogen om je project tot leven te brengen.",
+      "alt": "oprecht portret van Anaïs Leroy",
+      "author": {
+        "name": "Hugo Rivière",
+        "imageUrl": "/images/testimonialPhotos/21.webp"
+      }
+    },
+    {
+      "id": 22,
+      "body": "Vroeger was mijn site onzichtbaar. Na een paar maanden zag ik een echt verschil op Google. Stéphane legde elke stap duidelijk uit.",
+      "alt": "zelfverzekerde klant na de eerste SEO-resultaten, Julie Marin",
+      "author": {
+        "name": "Julie Marin",
+        "imageUrl": "/images/testimonialPhotos/22.webp"
+      }
+    },
+    {
+      "id": 23,
+      "body": "Stéphane doet niet alleen SEO, hij bouwt een strategie op maat. Ik heb meer samenhang in mijn communicatie en meer gekwalificeerd verkeer.",
+      "alt": "tevreden gezicht van Sébastien Collet na SEO begeleiding",
+      "author": {
+        "name": "Sébastien Collet",
+        "imageUrl": "/images/testimonialPhotos/23.webp"
+      }
+    },
+    {
+      "id": 24,
+      "body": "Ik begreep niets van SEO. Nu weet ik hoe mijn site werkt, waarom hij beter scoort, en hoe ik dat kan behouden.",
+      "alt": "rustig portret van Florence Billon, zelfstandig ondernemer",
+      "author": {
+        "name": "Florence Billon",
+        "imageUrl": "/images/testimonialPhotos/24.webp"
+      }
+    },
+    {
+      "id": 25,
+      "body": "SEO is voor mij geen vaag begrip meer. Dankzij Stéphane heb ik een geoptimaliseerde site die klanten aantrekt die echt geïnteresseerd zijn.",
+      "alt": "klant vol vertrouwen over zijn SEO-resultaten, Quentin V.",
+      "author": {
+        "name": "Quentin Verdier",
+        "imageUrl": "/images/testimonialPhotos/25.webp"
+      }
+    },
+    {
+      "id": 26,
+      "body": "Hij wist schoonheid en efficiëntie te combineren. Mijn site is even mooi als goed vindbaar. Het organisch verkeer is in twee maanden verdubbeld.",
+      "alt": "stralende oprichtster na SEO-audit, Alice Menier",
+      "author": {
+        "name": "Alice Menier",
+        "imageUrl": "/images/testimonialPhotos/26.webp"
+      }
+    },
+    {
+      "id": 27,
+      "body": "SEO was voor mij slechts een woord. Nu brengt het me elke week klanten. En ik voel me zelfstandig genoeg om ermee verder te gaan.",
+      "alt": "helder portret van Maxime Treillet, freelancer",
+      "author": {
+        "name": "Maxime Treillet",
+        "imageUrl": "/images/testimonialPhotos/27.webp"
+      }
+    }
+  ]
+}
+,"header": {
+    "logoAlt": "iMac toont React-code om een website te maken",
+    "logoTitle": "Webontwikkelaar & SEO-specialist",
+    "menuToggle": "Menu openen",
+    "menuClose": "Menu sluiten",
+    "mainNavigation": "Hoofdmenu",
+    "mobileMenuTitle": "Mobiel menu",
+    "navigation": {
+      "web": "Maatwerk websites",
+      "seo": "Natuurlijke SEO",
+      "portfolio": "Portfolio",
+      "about": "Wie ben ik?",
+      "contact": "Contact"
+    }
+},"footer": {
+  "ariaLabel": "Voettekst van de website",
+  "slogan": "Elegante en krachtige websites",
+  "copyright": "Alle rechten voorbehouden"
+},
+"webHero": {
+  "title": "Op maat gemaakte websites",
+  "text": "Ik ontwerp vitrinesites, blogs of webshops die uw imago weerspiegelen: snel, elegant, krachtig, toegankelijk, veilig en duurzaam."
+}
+,"beneficeWeb": {
+  "title": "Uw website verdient meer dan een standaard sjabloon",
+  "list": [
+    {
+      "title": "Maatwerk design",
+      "desc": "Elke website wordt ontworpen om uw visuele identiteit en waarden weer te geven."
+    },
+    {
+      "title": "Geoptimaliseerd voor SEO",
+      "desc": "Schone code, goed gestructureerde inhoud en een sterke SEO-basis."
+    },
+    {
+      "title": "Eenvoudig te beheren",
+      "desc": "U blijft zelfstandig na oplevering, met een duidelijke en toegankelijke interface."
+    }
+  ]
+}
+,"webCta": {
+  "title": "Klaar voor een website die echt bij u past?",
+  "text": "Ik begeleid u bij elke stap: van idee tot lancering."
+},"seoHero": {
+  "title": "SEO om zichtbaar te zijn op Google",
+  "aria": "Ga naar de pagina van Stéphane Gamot",
+  "text": "Een goede website heeft geen nut als hij niet wordt gezien. Ik optimaliseer elke pagina voor zoekmachines én voor uw bezoekers.",
+  "button": "Laten we erover praten"
+},"beneficeSeo": {
+  "title": "Waarom investeren in SEO?",
+  "list": [
+    {
+      "title": "Gevonden worden op Google",
+      "desc": "Ik werk aan zoekwoorden, tags, titels en structuur om uw zichtbaarheid te vergroten."
+    },
+    {
+      "title": "Gekwalificeerde bezoekers aantrekken",
+      "desc": "Uw site trekt mensen aan die echt op zoek zijn naar uw diensten. Minder ruis, meer klanten."
+    },
+    {
+      "title": "Een duurzame investering",
+      "desc": "SEO blijft resultaat opleveren, lang na de lancering van uw site."
+    }
+  ]
+},"seoCta": {
+  "title": "Uw zichtbaarheid verbeteren?",
+  "text": "Laten we samen een strategie op maat bespreken om uw site hoger te laten scoren in de zoekresultaten."
+},"stephaneHero": {
+  "title": "Wie ben ik?",
+  "alt": "Stéphane Gamot, webontwikkelaar",
+  "lines": [
+    "Mijn naam is Stéphane Gamot.",
+    "Software engineer & gepassioneerde full-stack webontwikkelaar.",
+    "Ik heb een CEC7-diploma (Master in Software Engineering).",
+    "Ik ontwerp elegante, krachtige en duurzame websites.",
+    "Mijn aanpak: techniek combineren met grafisch gevoel, SEO met gebruikerservaring. Elk project is bovenal een menselijk avontuur."
+  ]
+},"about": {
+  "metadata": {
+    "title": "Wie ben ik? – Stéphane Gamot, ingenieur & webontwikkelaar",
+    "description": "Full-stack ontwikkelaar & freelance SEO-consultant. Gepassioneerd door webdesign, toegankelijkheid, UX en technische optimalisatie.",
+    "ogTitle": "Stéphane Gamot – Ontwikkelaar van web- & SEO-oplossingen",
+    "ogDescription": "Mijn achtergrond, waarden en vaardigheden. Een menselijke, technische en esthetische aanpak voor uw website.",
+    "ogImageAlt": "Professioneel portret van Stéphane Gamot"
+  },
+  "timelineTitle": "Mijn traject",
+  "philosophyTitle": "Wat mij drijft",
+  "philosophyText": "Ik bied elke klant een op maat gemaakte oplossing, een digitale vitrine die bij hem past, met sterke fundamenten voor zichtbaarheid.",
+  "philosophySmallText": "Nauwkeurigheid, helderheid, luisteren en kennisoverdracht zijn de pijlers van mijn werkwijze.\nMijn ambitie is dat uw site een echte hefboom wordt – niet zomaar een hulpmiddel.",
+  "ctaTitle": "Zullen we samen aan uw project bouwen?",
+  "ctaText": "Laten we er een paar minuten rustig over praten.",
+  "timeline": [
+    { "year": "2008", "text": "Eerste webprojecten met Joomla en WordPress." },
+    { "year": "2014", "text": "Kennismaking met solide webfundamenten via HTML en CSS, wat zorgde voor gestructureerde en duidelijke code." },
+    { "year": "2018", "text": "Verdieping in moderne JavaScript en eerste SEO-georiënteerde projecten om de zichtbaarheid van websites te verbeteren." },
+    { "year": "2019", "text": "Gebruik van React en toepassing van toegankelijkheidsprincipes voor meer inclusieve interfaces." },
+    { "year": "2020", "text": "Verkenning van Next.js om prestaties, SEO en server-side architectuur te combineren." },
+    { "year": "2021", "text": "Gebruik van Bootstrap en later Tailwind CSS om elegante, consistente en responsieve interfaces te maken." },
+    { "year": "2022", "text": "Integratie van Git voor versiebeheer en implementatie van front-end tests met Jasmine." },
+    { "year": "2023", "text": "Gevorderde back-end ontwikkeling met Java, Spring Boot, MySQL en deployment via CI/CD pipelines." },
+    { "year": "2024", "text": "Strategische SEO-begeleiding, geavanceerde toegankelijkheid en op maat gemaakte webcreaties." }
+  ]
+}
+,"skills": {
+  "title": "Technische vaardigheden"
+}, 
+  "portfolio": {
+    "title": "Projectportfolio",
+    "text": "Ontdek enkele op maat gemaakte projecten die ik heb ontworpen – waar elegant design, prestaties en zichtbaarheid samenkomen.",
+    "ctaTitle": "Een project om te realiseren?",
+    "ctaText": "Laten we samen een websiteoplossing creëren die echt bij u past.",
+    "metadata": {
+      "title": "Portfolio – Web- & SEO-projecten van Stéphane Gamot",
+      "description": "Bekijk mijn creaties: op maat gemaakte websites, SEO-projecten en webapplicaties. Elegant ontwerp, vlotte UX en sterke prestaties.",
+      "ogTitle": "Portfolio – Web, SEO en applicatieprojecten",
+      "ogDescription": "Klantenprojecten: zakelijke websites, e-commerce, SEO, UI/UX en maatwerkontwikkeling met Next.js en Tailwind.",
+      "ogImageAlt": "Miniaturen van webprojecten en mobiele applicaties"
+    }
+  },
+  "portfolioProjects": {
+    "wellness-shop": {
+      "title": "Wellness webshop",
+      "category": "E-commerce",
+      "description": "Een zachte, responsieve en geoptimaliseerde webshop voor wellnessproducten en rituelen.",
+      "alt": "Voorbeeld van een vloeiende en natuurlijke wellness webshop."
+    },
+    "sushi-restaurant": {
+      "title": "Japans restaurant – Sushi Bar",
+      "category": "Horeca",
+      "description": "Een verfijnde site in Japanse stijl voor menu’s, online reserveringen en de sushi-ervaring.",
+      "alt": "Elegante presentatie van een sushi-restaurant met zen-sfeer."
+    },
+    "car-dealer": {
+      "title": "Autodealer website",
+      "category": "Automotive",
+      "description": "Een gestructureerde site voor nieuwe en gebruikte voertuigen, financiering en werkplaatsafspraken.",
+      "alt": "Professionele site voor een autodealer."
+    },
+    "recipe-blog": {
+      "title": "Familie receptenblog",
+      "category": "Blog",
+      "description": "Een warme en toegankelijke blog om eenvoudige, SEO-vriendelijke recepten te delen.",
+      "alt": "Sfeervolle receptenblog met gezinsvriendelijke uitstraling."
+    },
+    "bistronomic-restaurant": {
+      "title": "Bistronomisch restaurant",
+      "category": "Horeca",
+      "description": "Een meeslepend en smakelijk ontwerp met interactief menu en online reservering.",
+      "alt": "Vitrine van een modern bistronomisch restaurant."
+    },
+    "massage-courcelles": {
+      "title": "Massagepraktijk in Courcelles",
+      "category": "Wellness",
+      "description": "Een lokale en mobiele site voor een massagetherapeute in Courcelles.",
+      "alt": "Homepage van een rustgevende massagepraktijk in Courcelles."
+    },
+    "finance-site": {
+      "title": "Persoonlijke financiën website",
+      "category": "Financiën",
+      "description": "Een heldere en gestructureerde site om gebruikers te ondersteunen in hun financiële beheer.",
+      "alt": "Duidelijke en intuïtieve financiële site."
+    },
+    "massage-site": {
+      "title": "Wellness massage website",
+      "category": "Wellness",
+      "description": "Een serene en elegante site om gepersonaliseerde massages te promoten.",
+      "alt": "Zen en minimalistisch ontwerp voor wellness massagesite."
+    },
+    "karate-federation": {
+      "title": "Karatefederatie",
+      "category": "Sport",
+      "description": "Een dynamische, samenbindende site voor lessen, evenementen en inschrijvingen.",
+      "alt": "Site van een karatefederatie met kalender en informatie."
+    },
+    "real-estate": {
+      "title": "Lokale makelaar",
+      "category": "Vastgoed",
+      "description": "Een stijlvolle etalagesite met dynamische galerij, geolocatie en snelle contactmogelijkheid.",
+      "alt": "Elegante site voor een lokale vastgoedmakelaar."
+    },
+    "creative-agency": {
+      "title": "Creatief multimediabureau",
+      "category": "Creatie",
+      "description": "Een kleurrijke en moderne site voor video-, foto- en contentdiensten.",
+      "alt": "Dynamische site voor een creatief bureau."
+    },
+    "gaming-platform": {
+      "title": "Gaming community platform",
+      "category": "Community",
+      "description": "Een donker en levendig universum met forums, profielen en nieuws voor gamers.",
+      "alt": "Meeslepende interface voor een gamingcommunity."
+    },
+    "sofa-ecommerce": {
+      "title": "Online sofa winkel",
+      "category": "E-commerce",
+      "description": "Een minimalistische, stijlvolle webshop met filters, soepele navigatie en productfiches.",
+      "alt": "Online winkel voor stijlvolle sofa’s."
+    },
+    "photographer-portfolio": {
+      "title": "Fotografie portfolio",
+      "category": "Portfolio",
+      "description": "Een strak portfolio op volledig scherm met gecategoriseerde galerijen en snelle laadtijd.",
+      "alt": "Visuele presentatie van het werk van een professioneel fotograaf."
+    },
+    "fitness-app": {
+      "title": "Fitnessapp",
+      "category": "Applicatie",
+      "description": "Een interactieve app om prestaties en trainingsschema’s te volgen.",
+      "alt": "Mobiele interface voor persoonlijke trainingsopvolging."
+    },
+    "hr-app": {
+      "title": "Personeelsbeheer app",
+      "category": "Applicatie",
+      "description": "Een intuïtieve webapp voor afwezigheden, planningen, contracten en HR-dashboard.",
+      "alt": "Gebruiksvriendelijke HR-app voor personeelsbeheer."
+    },
+    "ai-startup": {
+      "title": "AI & data science startup",
+      "category": "Technologie",
+      "description": "Een moderne, heldere site voor een start-up gespecialiseerd in kunstmatige intelligentie en data.",
+      "alt": "Vitrine van een start-up in artificiële intelligentie."
+    },
+    "mountain-camping": {
+      "title": "Camping in de bergen",
+      "category": "Toerisme",
+      "description": "Een natuurlijke en meeslepende site voor een hooggelegen camping met reservatie en praktische info.",
+      "alt": "Reserveringssite voor een bergcamping."
+    },
+    "astro-site": {
+      "title": "Intuïtieve astrologie site",
+      "category": "Spiritualiteit",
+      "description": "Een mystieke, responsieve site gewijd aan geboortehoroscopen en consultaties.",
+      "alt": "Esoterische interface voor astrologische consultaties."
+    },
+    "martial-arts": {
+      "title": "Krijgskunst – 5 Kanji-principes",
+      "category": "Cultuur",
+      "description": "Een sobere site om de wijsheid van Japanse krijgskunsten te delen via 5 Kanji-principes.",
+      "alt": "Grafische illustratie rond krijgskunst en Kanji."
+    },
+    "tarot-site": {
+      "title": "Online tarotlegging",
+      "category": "Spiritualiteit",
+      "description": "Een vloeiende en interactieve ervaring voor gepersonaliseerde tarotkaartenleggingen.",
+      "alt": "Intuïtief platform voor online tarotkaartleggingen."
+    }
+  }, "aboutStephane": {
+  "section": {
+    "timeline": "Mijn traject"
+  },
+  "timeline": [
+    { "year": "2008", "text": "Eerste webprojecten met Joomla en WordPress." },
+    { "year": "2014", "text": "Sterke basis gelegd met HTML en CSS voor gestructureerde en duidelijke code." },
+    { "year": "2018", "text": "Verdieping in moderne JavaScript en eerste SEO-projecten om zichtbaarheid te verbeteren." },
+    { "year": "2019", "text": "Overgestapt naar React en toegankelijkheidsprincipes voor inclusieve interfaces." },
+    { "year": "2020", "text": "Next.js verkend om prestaties, SEO en server-side architectuur te combineren." },
+    { "year": "2021", "text": "Gebruik van Bootstrap en daarna Tailwind CSS om elegante, consistente en responsieve interfaces te creëren." },
+    { "year": "2022", "text": "Git geïntegreerd voor versiebeheer en front-end tests opgezet met Jasmine." },
+    { "year": "2023", "text": "Backendvaardigheden ontwikkeld met Java, Spring Boot, MySQL en CI/CD-deployments." },
+    { "year": "2024", "text": "Strategische begeleiding in SEO, geavanceerde toegankelijkheid en maatwerk webdesign." }
+  ],
+  "philosophy": {
+    "title": "Wat mij drijft",
+    "text1": "Elke klant een op maat gemaakte oplossing bieden, een digitale etalage op zijn of haar beeld en een stevige basis voor online zichtbaarheid.",
+    "text2": "Nauwkeurigheid, helderheid, luisteren en kennis delen zijn de pijlers van mijn werk. Mijn doel is dat uw site een echte hefboom wordt, geen simpel hulpmiddel."
+  },
+  "cta": {
+    "title": "Zullen we samen uw project opzetten?",
+    "text": "Laten we een paar minuten nemen om er rustig over te praten."
+  }
+}, "contact": {
+  "title": "Neem contact met mij op",
+  "description": "Of het nu gaat om een vraag, een specifieke behoefte of gewoon de wens om een webproject te starten, ik luister met aandacht. Schrijf me, en laten we samen een online aanwezigheid creëren die bij u past.",
+  "fields": {
+    "firstName": "Voornaam",
+    "lastName": "Achternaam",
+    "email": "E-mail",
+    "phone": "Telefoonnummer",
+    "message": "Bericht"
+  },
+  "submit": "Bericht verzenden",
+  "address": "Octaaf de kerchove d'exaerdestraat 193\n1501 Buizingen (Halle)",
+  "successSubject": "Nieuw bericht via de website"
+}
+
+}
+
+
+
+
+
+

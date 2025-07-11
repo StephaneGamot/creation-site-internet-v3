@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "src": "./../../../public/images/IA.webp",
+    "alt": "Site web créé a props de lIA"
+  },
+  {
+    "id": 2,
+ "src": "./../../../public/images/IB.webp",
+    "alt": "Site E-commerce de Bien-être"
+  },
+  {
+    "id": 3,
+ "src": "./../../../public/images/IC.webp",
+    "alt": "Site internet de recettes culinaire"
+  }
+]
