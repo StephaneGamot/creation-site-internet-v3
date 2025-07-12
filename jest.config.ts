@@ -1,19 +1,24 @@
+import nextJest from 'next/jest'
 import type { Config } from 'jest'
-import nextJest from 'next/jest.js'
 
 const createJestConfig = nextJest({
   dir: './',
 })
 
-const config: Config = {
+const customJestConfig: Config = {
   testEnvironment: 'jsdom',
   setupFilesAfterEnv: ['<rootDir>/jest.setup.ts'],
-  moduleNameMapper: {
-    '^@/(.*)$': '<rootDir>/src/$1',
+moduleNameMapper: {
+  '^@/(.*)$': '<rootDir>/src/$1',
+},
+  transform: {
+    '^.+\\.(js|jsx|ts|tsx)$': 'babel-jest',
   },
   transformIgnorePatterns: [
-    '/node_modules/(?!(next-intl)/)', // 🚨 on force la transpilation de next-intl
+    '/node_modules/(?!(next-intl)/)',
   ],
+  verbose: true,
+
 }
 
-export default createJestConfig(config)
+export default createJestConfig(customJestConfig)

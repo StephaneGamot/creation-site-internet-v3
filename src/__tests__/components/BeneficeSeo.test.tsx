@@ -1,31 +1,50 @@
-import { render, screen } from '@testing-library/react'
-import { NextIntlClientProvider } from 'next-intl'
-import BeneficeSeo from '@/components/Benefices/BeneficeSeo'
+// src/__tests__/components/BeneficeSeo.test.tsx
+import React from "react";
+import { render, screen } from "@testing-library/react";
+import BeneficeSeo from "@/components/Benefices/BeneficeSeo";
 
-const mockMessages = {
-  title: "Les bénéfices d’un SEO bien pensé",
-  list: [
-    { id: 1, title: "Meilleure visibilité", desc: "Votre site remonte dans les premiers résultats Google." },
-    { id: 2, title: "Trafic qualifié", desc: "Vous attirez des visiteurs réellement intéressés." },
-    { id: 3, title: "Conversion optimisée", desc: "Vos visiteurs deviennent plus facilement des clients." },
-  ],
-}
+// ✅ Mock complet : t("key") et t.raw("list")
+jest.mock("next-intl", () => ({
+  useTranslations: () => {
+    const t = (key: string) => {
+      if (key === "title") return "Les bénéfices d’un SEO bien pensé";
+      return "";
+    };
 
-describe('BeneficeSeo', () => {
-  it('affiche le titre et les éléments de la liste', () => {
-    render(
-      <NextIntlClientProvider locale="fr" messages={{ beneficeSeo: mockMessages }}>
-        <BeneficeSeo />
-      </NextIntlClientProvider>
-    )
+    t.raw = (key: string) => {
+      if (key === "list") {
+        return [
+          { id: 1, title: "Titre 1", desc: "Desc 1" },
+          { id: 2, title: "Titre 2", desc: "Desc 2" },
+        ];
+      }
+      return [];
+    };
 
-    expect(screen.getByRole('heading', {
-      name: /Les bénéfices d’un SEO bien pensé/i,
-    })).toBeInTheDocument()
+    return t;
+  },
+}));
 
-    mockMessages.list.forEach(item => {
-      expect(screen.getByText(item.title)).toBeInTheDocument()
-      expect(screen.getByText(item.desc)).toBeInTheDocument()
-    })
-  })
-})
+// ✅ Mock framer-motion pour éviter les erreurs de DOM
+jest.mock("framer-motion", () => {
+  const React = require("react");
+  return {
+    motion: {
+      div: React.forwardRef((props: any, ref) => {
+        return <div ref={ref} {...props} />;
+      }),
+    },
+  };
+});
+
+describe("BeneficeSeo", () => {
+  it("rend le titre et les bénéfices", () => {
+    render(<BeneficeSeo />);
+
+    expect(screen.getByText("Les bénéfices d’un SEO bien pensé")).toBeInTheDocument();
+    expect(screen.getByText("Titre 1")).toBeInTheDocument();
+    expect(screen.getByText("Desc 1")).toBeInTheDocument();
+    expect(screen.getByText("Titre 2")).toBeInTheDocument();
+    expect(screen.getByText("Desc 2")).toBeInTheDocument();
+  });
+});

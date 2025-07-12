@@ -1,4 +1,4 @@
-"use client";
+ "use client";
 
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
@@ -33,3 +33,36 @@ export default function BeneficeSeo() {
     </section>
   );
 }
+
+/*
+
+// src/components/Benefices/BeneficeSeo.tsx
+"use client";
+
+import { useTranslations } from "next-intl";
+
+type BenefitItem = {
+  id: number;
+  title: string;
+  desc: string;
+};
+
+export default function BeneficeSeo() {
+  const t = useTranslations("beneficeSeo");
+  const items: BenefitItem[] = t.raw("list");
+
+  return (
+    <section className="max-w-5xl mx-auto text-center mb-12">
+      <h2 className="text-3xl font-bold mb-6">{t("title")}</h2>
+      <ul className="grid md:grid-cols-3 gap-6">
+        {items.map(({ id, title, desc }) => (
+          <li key={id} className="p-4 rounded-lg border bg-white shadow">
+            <h3 className="text-xl font-semibold mb-2">{title}</h3>
+            <p>{desc}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}
+*/
