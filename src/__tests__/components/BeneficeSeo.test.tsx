@@ -1,5 +1,5 @@
 // src/__tests__/components/BeneficeSeo.test.tsx
-import React from "react";
+import React, { forwardRef } from "react";
 import { render, screen } from "@testing-library/react";
 import BeneficeSeo from "@/components/Benefices/BeneficeSeo";
 
@@ -25,17 +25,14 @@ jest.mock("next-intl", () => ({
   },
 }));
 
-// ✅ Mock framer-motion pour éviter les erreurs de DOM
-jest.mock("framer-motion", () => {
-  const React = require("react");
-  return {
-    motion: {
-      div: React.forwardRef((props: any, ref) => {
-        return <div ref={ref} {...props} />;
-      }),
-    },
-  };
-});
+// ✅ Mock framer-motion typé
+jest.mock("framer-motion", () => ({
+  motion: {
+    div: forwardRef<HTMLDivElement, React.HTMLProps<HTMLDivElement>>((props, ref) => (
+      <div ref={ref} {...props} />
+    )),
+  },
+}));
 
 describe("BeneficeSeo", () => {
   it("rend le titre et les bénéfices", () => {
