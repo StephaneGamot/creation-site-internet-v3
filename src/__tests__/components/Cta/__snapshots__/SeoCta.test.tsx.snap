@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`SeoCta correspond au snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="text-center pb-0"
+  >
+    <h2
+      class="text-3xl font-title font-semibold mb-4"
+    >
+      Besoin d’un SEO stratégique ?
+    </h2>
+    <p
+      class="text-lg text-gray-700 mb-6"
+    >
+      Votre visibilité mérite mieux que des mots-clés aléatoires. Parlons stratégie.
+    </p>
+    <a
+      href="/fr/contact"
+      role="button"
+    >
+      Me contacter
+    </a>
+  </section>
+</DocumentFragment>
+`;

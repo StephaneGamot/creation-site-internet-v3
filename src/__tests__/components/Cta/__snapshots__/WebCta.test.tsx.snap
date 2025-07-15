@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`WebCta correspond au snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="text-center"
+  >
+    <h2
+      class="text-3xl font-title font-semibold mb-4"
+    >
+      Un site web à votre image
+    </h2>
+    <p
+      class="text-lg text-gray-700 mb-6"
+    >
+      Conception sur mesure, performance, SEO... tout y est.
+    </p>
+    <a
+      href="/fr/contact"
+      role="button"
+    >
+      Me contacter
+    </a>
+  </section>
+</DocumentFragment>
+`;

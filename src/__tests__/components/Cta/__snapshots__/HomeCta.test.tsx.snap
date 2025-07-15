@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`HomeCta correspond au snapshot 1`] = `
+<DocumentFragment>
+  <section
+    aria-labelledby="cta-title"
+    class="text-center my-20"
+  >
+    <h2
+      class="text-3xl font-title font-semibold mb-4"
+      id="cta-title"
+    >
+      Une question ? Envie d’un site à votre image ?
+    </h2>
+    <p
+      class="text-lg text-gray-700 mb-6"
+    >
+      Discutons ensemble de votre projet web. Je suis à l’écoute.
+    </p>
+    <a
+      href="/fr/contact"
+      role="button"
+    >
+      Me contacter
+    </a>
+  </section>
+</DocumentFragment>
+`;
