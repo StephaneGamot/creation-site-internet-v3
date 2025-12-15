@@ -97,17 +97,12 @@ const nextConfig: NextConfig = {
 
   async redirects() {
     return [
-      {
-        source: "/(.*)",
-        has: [
-          {
-            type: "host",
-            value: "http://www.creation-site-internet.dev",
-          },
-        ],
-        destination: "https://www.creation-site-internet.dev/:1",
-        permanent: true,
-      },
+  {
+      source: "/:path*",
+      destination: "https://www.stephanegamot.com/:path*",
+      permanent: true,
+    },
+    /*
       {
         source: "/stephane-gamot/portfolio",
         destination: "/fr/stephane-gamot/portfolio",
@@ -137,7 +132,7 @@ const nextConfig: NextConfig = {
         source: "/seo-referencement-naturel",
         destination: "/fr/seo-referencement-naturel",
         permanent: true,
-      },
+      }, */
     ];
   },
 };
